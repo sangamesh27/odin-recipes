@@ -1,1 +1,2 @@
 # odin-recipes
+In this project we are going to build a recipe website using HTML. The website will be not pretty at the beginning of the project because we won't be using much of CSS in this project but we will do it in later stages.
